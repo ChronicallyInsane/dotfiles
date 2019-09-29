@@ -1,0 +1,81 @@
+
+Xft.dpi:                        96
+ft.antialias:                  1
+Xft.autohint:                   1
+Xft.hinting:                    1
+Xft.hintstyle:                  hintslight
+Xft.lcdfilter:                  lcdlight
+Xft.rgba:                       rgb
+
+URxvt*termName:                 rxvt-256color
+URxvt.depth:                    32
+URxvt*lineSpace:                1
+URxvt.letterSpace:              -1
+URxvt.iso14755:                 false
+URxvt.iso14755_52:              false
+URxvt*geometry:                 65x17
+URxvt.scrollBar:                false
+URxvt*loginShell:               true
+URxvt.internalBorder:           25
+URxvt.perl-ext:	 		default,matcher,selection-to-clipboard
+URxvt.url-launcher:             firefox-nightly
+URxvt.matcher.button: 		      1
+URxvt*font: xft:Bitstream Vera Sans Mono:pixelsize=12:antialias=true:hinting=true
+URxvt*depth:                    32
+!#URxvt*transparent:              true
+URxvt*cutchars: 		`"()'*<>[]{|}"
+!URxvt*.foreground:   #D9D9F3
+!URxvt*.cursorColor:  #003EFF
+URxvt*background:       #008B8B
+!URxvt*transparent: true
+!URxvt*tintColor: #ffdb99
+URxvt*shading: 70
+URxvt*saveLines: 12000
+URxvt*foreground: #42C0FB
+URxvt*background: White
+!#URxvt*font: xft:Bitstream Vera Sans Mono:pixelsize=12:antialias=true:hinting=true
+!#URxvt*boldFont: xft:Bitstream Vera Sans Mono:bold:pixelsize=12:antialias=true:hinting=true
+!URxvt*font: xft:DejaVu Sans Mono:pixelsize=12:antialias=true:hinting=true
+!URxvt*boldFont: xft:DejaVu Sans Mono:bold:pixelsize=12:antialias=true:hinting=true
+!#URxvt*font: xft:Liberation Mono:pixelsize=13:antialias=true:hinting=true
+!#URxvt*boldFont: xft:Liberation Mono:bold:pixelsize=13:antialias=true:hinting=true
+!#URxvt*font: xft:terminus:pixelsize=15
+!#URxvt*boldFont: xft:terminus:bold:pixelsize=15
+!#URxvt*font:-*-courier-medium-r-normal-*-14-*-*-*-*-*-iso8859-1
+!#URxvt*boldFont:-*-courier-bold-r-normal-*-14-*-*-*-*-*-iso8859-1
+!URxvt*color4: RoyalBlue
+!URxvt*color12: RoyalBlue
+URxvt*scrollBar: true
+URxvt*scrollBar_right: false
+URxvt*scrollstyle: rxvt
+! black
+*.color0:       #008B8B
+*.color8:       #483D8B
+
+! red
+*.color1:       #c05c47
+*.color9:       #c16772
+
+! green
+*.color2:       #428e8e
+*.color10:      #afda6e
+
+! yellow
+*.color3:       #e4b226
+*.color11:      #ebcf1a
+
+! blue
+*.color4:       #7171C6
+*.color12:      #000080
+
+! magenta
+*.color5:       #903a62
+*.color13:      #9568a1
+
+! cyan
+*.color6:       #7aa1dc
+*.color14:      #abbcda
+
+! white
+*.color7:       #c4b7c5
+*.color15:      #ffeefc
